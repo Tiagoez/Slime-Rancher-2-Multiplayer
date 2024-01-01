@@ -26,7 +26,7 @@ jobs:
 
     - name: Publish
       run: dotnet publish -c Release -o out
-      working-directory: ./SR2MP  # Replace with your actual project folder
+      working-directory: ./Slime-Rancher-2-Multiplayer-0.1.2  # Replace with your actual project folder
 
     - name: Move DLL to Artifact
       run: mv out/*.dll ./artifacts/
