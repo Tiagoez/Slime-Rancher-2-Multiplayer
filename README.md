@@ -1,8 +1,6 @@
-# Slime-Rancher-2-Multiplayer
+# THE FRAUDE FORK
+
+this fork allows to play at more than two by modifiying the max player value 
+so its all buggy but you can play at more than two players
 
 Discord server: https://discord.gg/JY8zDTuaGW
-
-
-**Some technical and networking solutions are used from:**
-- Tutorial how to make multiplayer by Tom Weiland: https://www.youtube.com/playlist?list=PLXkn83W0QkfnqsK8I0RAz5AbUxfg3bOQ5
-- SRMP mod by SatyPardus: https://github.com/SatyPardus/srmp-public
